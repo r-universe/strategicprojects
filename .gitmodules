@@ -11,6 +11,9 @@
 [submodule "pikchr"]
 	path = pikchr
 	url = https://github.com/strategicprojects/pikchr
+[submodule "plug"]
+	path = plug
+	url = https://github.com/strategicprojects/plug
 [submodule "webdav"]
 	path = webdav
 	url = https://github.com/strategicprojects/webdav
