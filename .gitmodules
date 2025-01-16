@@ -8,6 +8,9 @@
 [submodule "RapidFuzz"]
 	path = RapidFuzz
 	url = https://github.com/strategicprojects/rapidfuzz
+[submodule "diario"]
+	path = diario
+	url = https://github.com/strategicprojects/diario
 [submodule "pikchr"]
 	path = pikchr
 	url = https://github.com/strategicprojects/pikchr
