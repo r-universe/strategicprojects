@@ -20,3 +20,6 @@
 [submodule "webdav"]
 	path = webdav
 	url = https://github.com/strategicprojects/webdav
+[submodule "whapi"]
+	path = whapi
+	url = https://github.com/strategicprojects/whapi
