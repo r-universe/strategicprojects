@@ -11,6 +11,9 @@
 [submodule "diario"]
 	path = diario
 	url = https://github.com/strategicprojects/diario
+[submodule "evolution"]
+	path = evolution
+	url = https://github.com/strategicprojects/evolution
 [submodule "pikchr"]
 	path = pikchr
 	url = https://github.com/strategicprojects/pikchr
