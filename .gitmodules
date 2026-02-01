@@ -8,6 +8,9 @@
 [submodule "RapidFuzz"]
 	path = RapidFuzz
 	url = https://github.com/strategicprojects/rapidfuzz
+[submodule "cardargus"]
+	path = cardargus
+	url = https://github.com/strategicprojects/cardargus
 [submodule "diario"]
 	path = diario
 	url = https://github.com/strategicprojects/diario
@@ -17,6 +20,9 @@
 [submodule "pikchr"]
 	path = pikchr
 	url = https://github.com/strategicprojects/pikchr
+[submodule "pixr"]
+	path = pixr
+	url = https://github.com/strategicprojects/pixr
 [submodule "plug"]
 	path = plug
 	url = https://github.com/strategicprojects/plug
