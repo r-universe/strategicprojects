@@ -5,6 +5,9 @@
 [submodule "BigDataPE"]
 	path = BigDataPE
 	url = https://github.com/strategicprojects/bigdatape
+[submodule "DT2"]
+	path = DT2
+	url = https://github.com/strategicprojects/dt2
 [submodule "RapidFuzz"]
 	path = RapidFuzz
 	url = https://github.com/strategicprojects/rapidfuzz
@@ -14,6 +17,9 @@
 [submodule "comexr"]
 	path = comexr
 	url = https://github.com/strategicprojects/comexr
+[submodule "datasusr"]
+	path = datasusr
+	url = https://github.com/strategicprojects/datasusr
 [submodule "diario"]
 	path = diario
 	url = https://github.com/strategicprojects/diario
