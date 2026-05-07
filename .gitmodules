@@ -38,6 +38,9 @@
 [submodule "plug"]
 	path = plug
 	url = https://github.com/strategicprojects/plug
+[submodule "tesouror"]
+	path = tesouror
+	url = https://github.com/strategicprojects/tesouror
 [submodule "webdav"]
 	path = webdav
 	url = https://github.com/strategicprojects/webdav
