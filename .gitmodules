@@ -38,6 +38,9 @@
 [submodule "plug"]
 	path = plug
 	url = https://github.com/strategicprojects/plug
+[submodule "tceper"]
+	path = tceper
+	url = https://github.com/strategicprojects/tceper
 [submodule "tesouror"]
 	path = tesouror
 	url = https://github.com/strategicprojects/tesouror
