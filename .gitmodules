@@ -29,6 +29,9 @@
 [submodule "ibger"]
 	path = ibger
 	url = https://github.com/strategicprojects/ibger
+[submodule "pdfsigner"]
+	path = pdfsigner
+	url = https://github.com/strategicprojects/pdfsigner
 [submodule "pikchr"]
 	path = pikchr
 	url = https://github.com/strategicprojects/pikchr
