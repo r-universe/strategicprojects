@@ -41,6 +41,9 @@
 [submodule "plug"]
 	path = plug
 	url = https://github.com/strategicprojects/plug
+[submodule "rsei"]
+	path = rsei
+	url = https://github.com/strategicprojects/rsei
 [submodule "tceper"]
 	path = tceper
 	url = https://github.com/strategicprojects/tceper
