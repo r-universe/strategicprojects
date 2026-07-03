@@ -11,6 +11,9 @@
 [submodule "RapidFuzz"]
 	path = RapidFuzz
 	url = https://github.com/strategicprojects/rapidfuzz
+[submodule "apifetch"]
+	path = apifetch
+	url = https://github.com/strategicprojects/apifetch
 [submodule "cardargus"]
 	path = cardargus
 	url = https://github.com/strategicprojects/cardargus
