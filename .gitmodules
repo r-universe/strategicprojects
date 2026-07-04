@@ -20,6 +20,9 @@
 [submodule "comexr"]
 	path = comexr
 	url = https://github.com/strategicprojects/comexr
+[submodule "crawlee"]
+	path = crawlee
+	url = https://github.com/strategicprojects/crawlee
 [submodule "datasusr"]
 	path = datasusr
 	url = https://github.com/strategicprojects/datasusr
