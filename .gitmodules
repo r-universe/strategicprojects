@@ -56,6 +56,9 @@
 [submodule "tesouror"]
 	path = tesouror
 	url = https://github.com/strategicprojects/tesouror
+[submodule "vrpr"]
+	path = vrpr
+	url = https://github.com/strategicprojects/vrpr
 [submodule "webdav"]
 	path = webdav
 	url = https://github.com/strategicprojects/webdav
