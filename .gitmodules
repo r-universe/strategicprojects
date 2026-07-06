@@ -35,6 +35,9 @@
 [submodule "ibger"]
 	path = ibger
 	url = https://github.com/strategicprojects/ibger
+[submodule "osmnxr"]
+	path = osmnxr
+	url = https://github.com/strategicprojects/osmnxr
 [submodule "pdfsigner"]
 	path = pdfsigner
 	url = https://github.com/strategicprojects/pdfsigner
