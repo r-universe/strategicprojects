@@ -29,6 +29,9 @@
 [submodule "diario"]
 	path = diario
 	url = https://github.com/strategicprojects/diario
+[submodule "doclingr"]
+	path = doclingr
+	url = https://github.com/strategicprojects/doclingr
 [submodule "evolution"]
 	path = evolution
 	url = https://github.com/strategicprojects/evolution
