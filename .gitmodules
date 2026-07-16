@@ -56,6 +56,9 @@
 [submodule "rsei"]
 	path = rsei
 	url = https://github.com/strategicprojects/rsei
+[submodule "tantivyr"]
+	path = tantivyr
+	url = https://github.com/strategicprojects/tantivyr
 [submodule "tceper"]
 	path = tceper
 	url = https://github.com/strategicprojects/tceper
