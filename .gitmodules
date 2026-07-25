@@ -38,6 +38,9 @@
 [submodule "ibger"]
 	path = ibger
 	url = https://github.com/strategicprojects/ibger
+[submodule "obrasgovr"]
+	path = obrasgovr
+	url = https://github.com/strategicprojects/obrasgovr
 [submodule "osmnxr"]
 	path = osmnxr
 	url = https://github.com/strategicprojects/osmnxr
