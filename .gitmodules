@@ -56,6 +56,9 @@
 [submodule "plug"]
 	path = plug
 	url = https://github.com/strategicprojects/plug
+[submodule "polyglotSQL"]
+	path = polyglotSQL
+	url = https://github.com/strategicprojects/polyglot-sql-r
 [submodule "rsei"]
 	path = rsei
 	url = https://github.com/strategicprojects/rsei
