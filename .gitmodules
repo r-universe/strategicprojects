@@ -71,6 +71,9 @@
 [submodule "tesouror"]
 	path = tesouror
 	url = https://github.com/strategicprojects/tesouror
+[submodule "transferegovr"]
+	path = transferegovr
+	url = https://github.com/strategicprojects/transferegovr
 [submodule "vrpr"]
 	path = vrpr
 	url = https://github.com/strategicprojects/vrpr
