@@ -17,9 +17,6 @@
 [submodule "apifetch"]
 	path = apifetch
 	url = https://github.com/strategicprojects/apifetch
-[submodule "capesR"]
-	path = capesR
-	url = https://github.com/strategicprojects/capesr
 [submodule "cardargus"]
 	path = cardargus
 	url = https://github.com/strategicprojects/cardargus
