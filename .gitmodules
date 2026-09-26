@@ -47,6 +47,9 @@
 [submodule "osmnxr"]
 	path = osmnxr
 	url = https://github.com/strategicprojects/osmnxr
+[submodule "pdfsigner"]
+	path = pdfsigner
+	url = https://github.com/strategicprojects/pdfsigner
 [submodule "pikchr"]
 	path = pikchr
 	url = https://github.com/strategicprojects/pikchr
