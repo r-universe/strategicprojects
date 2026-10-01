@@ -17,6 +17,9 @@
 [submodule "apifetch"]
 	path = apifetch
 	url = https://github.com/strategicprojects/apifetch
+[submodule "cagedr"]
+	path = cagedr
+	url = https://github.com/strategicprojects/cagedr
 [submodule "cardargus"]
 	path = cardargus
 	url = https://github.com/strategicprojects/cardargus
@@ -35,6 +38,9 @@
 [submodule "doclingr"]
 	path = doclingr
 	url = https://github.com/strategicprojects/doclingr
+[submodule "estbanr"]
+	path = estbanr
+	url = https://github.com/strategicprojects/estbanr
 [submodule "evolution"]
 	path = evolution
 	url = https://github.com/strategicprojects/evolution
