@@ -38,6 +38,9 @@
 [submodule "doclingr"]
 	path = doclingr
 	url = https://github.com/strategicprojects/doclingr
+[submodule "electedBR"]
+	path = electedBR
+	url = https://github.com/strategicprojects/electedbr
 [submodule "estbanr"]
 	path = estbanr
 	url = https://github.com/strategicprojects/estbanr
