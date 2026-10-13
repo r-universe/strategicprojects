@@ -47,9 +47,6 @@
 [submodule "evolution"]
 	path = evolution
 	url = https://github.com/strategicprojects/evolution
-[submodule "ibger"]
-	path = ibger
-	url = https://github.com/strategicprojects/ibger
 [submodule "obrasgovr"]
 	path = obrasgovr
 	url = https://github.com/strategicprojects/obrasgovr
