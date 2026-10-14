@@ -47,6 +47,9 @@
 [submodule "evolution"]
 	path = evolution
 	url = https://github.com/strategicprojects/evolution
+[submodule "foresightr"]
+	path = foresightr
+	url = https://github.com/strategicprojects/foresightr
 [submodule "obrasgovr"]
 	path = obrasgovr
 	url = https://github.com/strategicprojects/obrasgovr
