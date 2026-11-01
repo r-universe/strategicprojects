@@ -53,6 +53,10 @@
 [submodule "foresightr"]
 	path = foresightr
 	url = https://github.com/strategicprojects/foresightr
+[submodule "misocialr"]
+	path = misocialr
+	url = https://github.com/strategicprojects/misocial
+	subdir = misocialr
 [submodule "obrasgovr"]
 	path = obrasgovr
 	url = https://github.com/strategicprojects/obrasgovr
