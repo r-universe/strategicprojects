@@ -84,6 +84,10 @@
 [submodule "rsei"]
 	path = rsei
 	url = https://github.com/strategicprojects/rsei
+[submodule "s3pe"]
+	path = s3pe
+	url = https://github.com/strategicprojects/s3pe
+	subdir = r
 [submodule "tantivyr"]
 	path = tantivyr
 	url = https://github.com/strategicprojects/tantivyr
